@@ -2,7 +2,7 @@
 
 [libuv](https://github.com/libuv/libuv) as XCFramework to use in iOS/MacOS Swift project
 
-to generate the XCFramework file to use in your swift projects, after building run below scripts terminal
+to generate the XCFramework file to use in your swift projects, after building run below scripts in terminal
 
 ```bash
 cd to-project-directory
